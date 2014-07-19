@@ -1,4 +1,5 @@
 schurk
 ======
 
-HTML5/JS Cyberpunk Roguelike
+Schurk: A Cyberpunk Roguelike
+
